@@ -22,7 +22,7 @@ for repo_dict in repo_dicts:
     repo_link=f"<a href='{repo_url}'> {repo_name}</a>"
     repo_links.append(repo_link)
     
-# MAKE visualization clearly
+# MAKE visualization 
 
 data = [{
     'type': 'bar',
