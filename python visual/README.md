@@ -77,17 +77,3 @@ python_repos.html
 4. It creates a Plotly bar chart from that data.
 5. It saves the visualization as `python_repos.html`.
 
-## Contributing
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-Add your preferred license here, such as MIT.
-
-## Contact
-
-Add your GitHub profile or email here if you want to include contact details.
