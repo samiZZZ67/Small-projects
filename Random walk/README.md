@@ -7,6 +7,16 @@ The project is split into two simple parts:
 - `random_walk.py` creates the random-walk data.
 - `rw_visual.py` plots the walk and lets you generate new walks in a loop.
 
+## Table of Contents
+
+- [What It Does](#what-it-does)
+- [Files](#files)
+- [Requirements](#requirements)
+- [How To Run](#how-to-run)
+- [Screenshot](#screenshot)
+- [Why This Project Is Nice](#why-this-project-is-nice)
+- [Quick Summary](#quick-summary)
+
 ## What It Does
 
 Each walk starts at `(0, 0)` and keeps moving in random x and y directions until it reaches the requested number of points.
