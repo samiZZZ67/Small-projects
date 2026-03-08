@@ -70,6 +70,15 @@ After the chart appears:
 2. Enter `y` to generate another walk.
 3. Enter `n` to stop.
 
+## Screenshot
+
+Here are three images here 
+1.
+![Random Walk Screenshot 1](1.jpg)
+2.
+![Random Walk Screenshot 2](2.jpg)
+3.
+![Random Walk Screenshot 3](3.jpg)
 ## Why This Project Is Nice
 
 This is a good beginner-friendly example of combining:
