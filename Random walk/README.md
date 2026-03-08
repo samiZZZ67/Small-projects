@@ -82,7 +82,8 @@ After the chart appears:
 
 ## Screenshot
 
-Here are three example screenshots from the project:
+<details>
+<summary>Click to view project screenshots</summary>
 
 1. Random walk example one
 
@@ -95,6 +96,8 @@ Here are three example screenshots from the project:
 3. Random walk example three
 
 ![Random Walk Screenshot 3](assets/3.jpg)
+
+</details>
 
 ## Why This Project Is Nice
 
