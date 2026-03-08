@@ -55,10 +55,24 @@ After running the script:
 
 Open `python_repos.html` in your browser to view the interactive result.
 
+## Screenshot
+
+
+
+```md
+![Python Visual Screenshot](assets/python-repos-screenshot.jpg)
+```
+
+Example:
+
+![Python Visual Screenshot](assets/python-repos-screenshot.jpg)
+
 ## Project Structure
 
 ```text
 python visual/
+|-- assets/
+|   `-- python-repos-screenshot.svg
 |-- python_repos_visual.py
 `-- README.md
 ```
@@ -76,4 +90,3 @@ python_repos.html
 3. It extracts repository names, links, star counts, owners, and descriptions.
 4. It creates a Plotly bar chart from that data.
 5. It saves the visualization as `python_repos.html`.
-
