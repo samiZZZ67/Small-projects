@@ -72,13 +72,20 @@ After the chart appears:
 
 ## Screenshot
 
-Here are three images here 
-1.
-![Random Walk Screenshot 1](1.jpg)
-2.
-![Random Walk Screenshot 2](2.jpg)
-3.
-![Random Walk Screenshot 3](3.jpg)
+Here are three example screenshots from the project:
+
+1. Random walk example one
+
+![Random Walk Screenshot 1](assets/1.jpg)
+
+2. Random walk example two
+
+![Random Walk Screenshot 2](assets/2.jpg)
+
+3. Random walk example three
+
+![Random Walk Screenshot 3](assets/3.jpg)
+
 ## Why This Project Is Nice
 
 This is a good beginner-friendly example of combining:
