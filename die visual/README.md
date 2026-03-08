@@ -101,7 +101,7 @@ python die_visual.py
 Run the three-dice visualization:
 
 ```bash
-python die_visual36.py
+python "die_visual3(8).py"
 ```
 
 After running either script, Plotly generates an HTML file that you can open in your browser.
@@ -114,7 +114,7 @@ Running `die_visual.py` creates:
 d6.html
 ```
 
-Running `die_visual36.py` creates:
+Running `die_visual3(8).py` creates:
 
 ```text
 d6_d6.html
@@ -126,7 +126,7 @@ d6_d6.html
 die visual/
 |-- die.py
 |-- die_visual.py
-|-- die_visual36.py
+|-- die_visual3(8).py
 `-- README.md
 ```
 
@@ -135,11 +135,9 @@ die visual/
 <details>
 <summary>Click to add or show screenshots</summary>
 
-```md
 ![Die Visual Screenshot 1](assets/1.jpg)
-![Die Visual Screenshot 1](assets/2.jpg)
 
-```
+![Die Visual Screenshot 2](assets/2.jpg)
 
 </details>
 
